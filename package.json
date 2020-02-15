@@ -1,0 +1,22 @@
+{
+  "name": "angularjs-material-bootstrap",
+  "version": "1.0.0",
+  "description": "angularjs material ui bootstrap seed project",
+  "main": "/app/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jokidz90/angularjs-material-bootstrap.git"
+  },
+  "author": "yohan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jokidz90/angularjs-material-bootstrap/issues"
+  },
+  "homepage": "https://github.com/jokidz90/angularjs-material-bootstrap#readme",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}

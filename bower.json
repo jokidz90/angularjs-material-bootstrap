@@ -1,0 +1,32 @@
+{
+  "name": "angularjs-material-bootstrap",
+  "homepage": "https://github.com/jokidz90/angularjs-material-bootstrap",
+  "authors": [
+    "MANDALA-PC\\Mandala <jokidz90@gmail.com>"
+  ],
+  "description": "seed project for angularjs material ui",
+  "main": "app/index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.7.9",
+    "angular-cookies": "^1.7.9",
+    "angular-route": "^1.7.9",
+    "angular-translate": "^2.18.2",
+    "angular-translate-loader-static-files": "^2.18.2",
+    "angular-translate-storage-cookie": "^2.18.2",
+    "angular-translate-storage-local": "^2.18.2",
+    "angular-ui-router": "^1.0.25",
+    "jquery": "^3.4.1",
+    "moment": "^2.24.0",
+    "bootstrap-datetimepicker": "^0.0.11",
+    "popper.js": "^2.0.6"
+  }
+}
